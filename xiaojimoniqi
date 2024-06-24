@@ -8,4 +8,6 @@
 ||flow.gameley.com/stat/ikanstat/exposure/batch
 ||pangolin-sdk-toutiao1.com^$app=com.xiaoji.emulator
 ||pangolin-sdk-toutiao1.com^$important,app=com.xiaoji.emulator
-||httpdns.bcelive.com^$app=com.xiaoji.emulator
+||bcelive.com^$app=com.xiaoji.emulator
+||sigmob.cn^$app=com.xiaoji.emulator
+||umeng.com^$app=com.xiaoji.emulator
